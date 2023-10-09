@@ -1,0 +1,6 @@
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+C:\Users\tanya\OneDrive\Рабочий стол\MyMathLibrary\MyMathLibrary\obj\Debug\MyMathLibrary.pdb
